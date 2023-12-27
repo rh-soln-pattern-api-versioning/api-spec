@@ -30,23 +30,23 @@
                                             "applicable": true
                                         },
                                         "billing_address": {
-                                            "address1": "3764 Elvis Presley Boulevard",
+                                            "address1": "3764 Present Boulevard",
                                             "address2": "",
                                             "city": "Tennessee",
                                             "country": "US",
-                                            "first_name": "Elvis",
-                                            "last_name": "Presley",
+                                            "first_name": "Allison",
+                                            "last_name": "Silva",
                                             "phone": "+1-123456789",
                                             "state": "Tennessee",
                                             "zip": "38106-6947"
                                         },
                                         "shipping_address": {
-                                            "address1": "3764 Elvis Presley Boulevard",
+                                            "address1": "3764 Present Boulevard",
                                             "address2": "",
                                             "city": "Tennessee",
                                             "country": "US",
-                                            "first_name": "Elvis",
-                                            "last_name": "Presley",
+                                            "first_name": "Alison",
+                                            "last_name": "Silva",
                                             "phone": "+1-123456789",
                                             "state": "Tennessee",
                                             "zip": "38106-6947"
@@ -67,13 +67,13 @@
                                         ],
                                         "user_info": {
                                             "userId": "7672a49e-9afc-498f-91bc-98f881179f2c",
-                                            "email": "elvispresley@jazz.com",
+                                            "email": "asilva@email.com",
                                             "customer_id": "345678",
-                                            "username": "elvispresley"
+                                            "username": "asilva"
                                         },
                                         "payment": {
-                                            "name_on_card": "wqe",
-                                            "credit_card_number": "we",
+                                            "name_on_card": "Allison Silva",
+                                            "credit_card_number": "12345678901234",
                                             "card_expiry_date": {
                                                 "year": 2022,
                                                 "month": 7,
