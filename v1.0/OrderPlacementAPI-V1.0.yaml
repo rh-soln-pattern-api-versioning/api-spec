@@ -1,7 +1,7 @@
 openapi: 3.0.2
 info:
     title: OrderPlacementAPI V1.0
-    version: 1.1.0
+    version: 1.0.0
     description: 'API Call to place an order with product, address and user details'
     license:
         name: MIT License
